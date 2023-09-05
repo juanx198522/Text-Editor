@@ -54,13 +54,24 @@ Manifest file for PWA capabilities.
 Easy deployment to Heroku.
 
 ## Mock-Up
-![Application in Action: Demo Animation](./assets/About.png)
-![Manifest File: Manifest File](./assets/About.png)
-![Registered Service Worker: Service Worker](./assets/About.png)
-![IndexedDB Storage: IndexedDB Storage](./assets/About.png)
+Home:
+
+![Home](./assets/Home.png)
+
+Manifest File:
+
+![Manifest File](./assets/Manifest.png)
+
+Service Worker:
+
+![Service Worker](./assets/ServiceWorkers.png)
+
+IndexedDB Storage:
+
+![IndexedDB Storage](./assets/IndexedDB.png)
 
 ## Deployed Application Link
-[https://juanx198522.github.io/React-Portfolio/](https://juanx198522.github.io/React-Portfolio/)
+[https://pwa-text-editor-2023-c07a9bda4f60.herokuapp.com/](https://pwa-text-editor-2023-c07a9bda4f60.herokuapp.com/)
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
